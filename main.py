@@ -5,7 +5,7 @@ from langchain_openai import OpenAI
 
 template = """
     Below is a draft text that may be poorly worded.
-    Your goal is to:
+    Our goal is to:
     - Properly redact the draft text
     - Convert the draft text to a specified tone
     - Convert the draft text to a specified dialect
